@@ -66,7 +66,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 ## 📂 How to Use
 1. Clone/download this repository.  
-2. Open the Excel file (`Blinkit_Sales_Dashboard.xlsx`).  
+2. Open the Excel file (`https://github.com/sunehthakur77-bot/Blinkit-Excel-Project/blob/main/Blinkit%20Project.xlsx`).  
 3. Use the slicer panel (left side) to filter outlet size, location, or item type.  
 4. All KPI cards and charts will update dynamically.  
 
