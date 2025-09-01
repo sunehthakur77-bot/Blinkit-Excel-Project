@@ -6,22 +6,22 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 
 
-## 🎯 Key Features
-- 📌 **Interactive Slicers** for filtering by:
+##  Key Features
+-  **Interactive Slicers** for filtering by:
   - Outlet Size (High, Medium, Small)
   - Outlet Location (Tier 1, Tier 2, Tier 3)
   - Item Type (Fruits, Dairy, Snacks, Frozen Foods, etc.)
-- 📌 **KPI Cards** for quick metrics:
+-  **KPI Cards** for quick metrics:
   - 💰 Total Sales = **$1.20M**
   - 📦 Total Items Sold = **8523**
   - 📈 Avg Sales per Item = **$141**
   - ⭐ Average Rating = **4.0**
-- 📌 Visualizations:
+-  Visualizations:
   - Line Chart → **Sales Trend by Year (2011–2022)**
   - Donut Charts → **Sales by Fat Content & Outlet Size**
   - Bar Charts → **Sales by Item Type, Outlet Location, and Outlet Type**
   - Comparative Analysis → **Fat Content vs Outlet Tier**
-- 📌 Professional Formatting:
+-  Professional Formatting:
   - Modern color theme (yellow/black for Blinkit branding)
   - Icons for KPIs
   - Clean & dashboard-style layout
@@ -54,7 +54,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 ---
 
-## 🛠️ Tools & Techniques Used
+## Tools & Techniques Used
 - **Microsoft Excel (Office 365)**
 - Pivot Tables & Pivot Charts
 - Slicers & Timelines
@@ -72,7 +72,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 - Add **Profit Margin Analysis**  
 - Customer demographics for deeper insights  
 - Power Query automation for real-time data refresh  
